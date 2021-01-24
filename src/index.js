@@ -46,7 +46,7 @@ function fetchAPI() {
         }
         
         renderImg(hits);
-        // if (!renderImg(hits)) {
+        // if (!renderImg(hits)) { 
         //     error({
         //     delay: 1000,
         //     text: 'Img not found!',
